@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Landing Page</title>
+  </head>
+
+  <body>
+<nav>
+<a href="#" class="logo">
+        <h1>
+          <span class="Name">SummerCamp</span><br> 
+</h1>
+      </a>
+
+        
+
+       <ul>
+        <li class="nav-item">
+          <a href="#about" class="nav-link" id="nav-link">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="#stars" class="nav-link" id="nav-link">About</a>
+        </li>
+        <li class="nav-item">
+          <a href="#stakeholders" class="nav-link" id="nav-link"
+            >Staff</a>
+         </li>
+        <li class="nav-item">
+          <a href="#sub" class="nav-link" id="nav-link">Subscribe</a>
+        </li>
+</ul>
+
+<button class="button button">Enroll Now!</button>
+</nav>
+
+
+<nav>
+        <h1 style="color:Blue;">
+          <span class="slogan">Let's Learn And Grow Together!<br></span>
+        </h1>
+</nav>
+<nav>
+
+<p style="color:blue;font-size:20px;position:relative;top:-85px; border: 20px double transparent; text-align: justify;">
+<span class="slogan">
+This summer camp strives to foster personal growth for children <br> by providing them fun, safe educational/recreational programs, outdoor <br> experiences and group activities while away from home during the <br> summer months.
+This is an amazing chance for kids to learn new things and <br> to do adventurous tasks.</span></p>
+
+<span class="slogan">
+<img src="C:\Users\Home\Pictures\download.jpg" alt="children" width="400" height="350">
+</span>
+
+</nav>
+
+
+<div class="row">
+<div class="column">
+<img src="C:\Users\Home\Pictures\summer.jpg" alt="children" width="350" height="250">
+
+</div>
+
+
+<div class="column">
+<img src="C:\Users\Home\Pictures\read.jpg" alt="children" width="350" height="250">
+</div>
+
+
+<div class="column">
+<img src="C:\Users\Home\Pictures\adv.jpg" alt="children" width="350" height="250">
+</div>
+</div>
+
+  </body>
+</html>
