@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+}
+.container{
+    padding-top: 20px;
+    background-color: #fff;
+    padding-bottom: 10px;
+} 
+
+#EN, h3{
+    color: darkblue;
+    font-weight: bold;
+}
+
+#FR, h3{
+    color: gray;
+    font-weight: bold;
+}
+.headerlogo{
+    width: 200px;
+}
+.headerlogo img{
+    width: 100%;
+    height: auto;
+}
+.content{
+    padding: 100px;
+    text-align: center;
+    color: white;
+    background-color:darkblue;
+    font-size: 20px;
+    height: 450px;
+}
+.formcontent{
+    padding: 30px;
+    color: white;
+    background-color:darkblue;
+    font-size: 20px;
+    height: 850px;
+}
+.formcontent h2{
+    margin-left: 165px;
+    margin-bottom: 50px;
+}
+.error-message {
+    margin-bottom: 1rem;
+    color: #dc3545;
+    font-size: 15px;
+}
+
+#btn{
+    color:darkblue;  
+    font-weight: bold;
+    background-color: #fff;
+    border-color: goldenrod;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.dropdown-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px; /* Adjust the right offset as needed */
+    transform: translateY(-50%);
+}
+.header, p{
+    color: darkblue;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+div.d-flex.flex-column{
+    margin-right: 50px;
+}
+
+.copyright {
+    font-size: 18px;
+    color: darkblue;
+}
+
+.footerlogo{
+    width: 200px;
+}
+.footerlogo img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* SignUp form*/
+main{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 60rem;
+    max-height: 100%;
+}
+form {
+    box-sizing: border-box;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+    background-color: #fff;
+    /*
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;*/
+    color: black;
+    margin-top: 0;
+  }
+  form .required label:after {
+	color: black;
+	content: '*';
+	display:inline;
+	font-weight: bold;
+}
+#submit-btn{
+    background-color: darkblue;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    max-width: 100%;
+    margin-left: 15px;
+}
+#agree{
+    color: black;
+    font-size: 15px;
+    margin-bottom: 0 !important;
+}
+
+
+
+  
+
